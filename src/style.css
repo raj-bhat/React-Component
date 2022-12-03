@@ -1,0 +1,49 @@
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.navbar{
+    display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.logo img {
+	width: 40px;
+	height: 40px;
+    padding-left: 5px;
+}
+.userLogo img{
+    width: 50px;
+	height: 40px;   
+}
+.SearchBar{
+    width: 500px;
+    
+}
+.searchArea{
+	padding: 10px 20px;
+	font-size: 20px;
+	height: 50px;
+	width: 100%;
+}
+.title{
+    margin-top: 20px;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    
+}
+h2{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+}
